@@ -427,47 +427,34 @@ line-height: 1.5;
 
 .page-footer {
     background-color: #2e2f42;
-        padding: 100px 0;
+    padding: 100px 0;
 }
 .for-you {
-    line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
-        display: block;
-        max-width: 264px;
-        font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
         font-weight: 400;
         line-height: 1.5;
-        margin-bottom: 16px;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+        max-width: 264px;
+        margin-bottom: 16px
     }
 
-.weblogotwoo {
-    font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 117%;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #f4f4fd;
-        text-decoration: none;
-        display: inline-block;
-        margin-bottom: 16px;
-
-}
-.weblogo {
-display: inline-block;
-margin-bottom: 16px;
-}
-
-footer {
-font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
+.weblogotwoo-footer {
     color: #f4f4fd;
-    background: #2e2f42;
 }
+.weblogo-footer {
+font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
 .footercon {
     display: flex;
     align-items: baseline;
