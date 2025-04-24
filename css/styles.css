@@ -417,15 +417,6 @@ line-height: 1.5;
     background-color: #2e2f42;
     padding: 100px 0;
 }
-.for-you {
-font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
-    margin-bottom: 16px;
-    max-width: 264px;
-    }
 
 .weblogotwoo-footer {
     color: #f4f4fd;
@@ -457,6 +448,15 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.02em;
     color: #fff;
     margin-bottom: 16px;
+}
+.for-you {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+    margin-bottom: 16px;
+    max-width: 264px;
 }
 
 .icons-footer {
