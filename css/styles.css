@@ -448,6 +448,7 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.02em;
     color: #fff;
     margin-bottom: 16px;
+    margin-top: 0;
 }
 .for-you {
     font-family: "Roboto", sans-serif;
@@ -457,6 +458,7 @@ font-family: "Raleway", sans-serif;
     color: #F4F4FD;
     margin-bottom: 16px;
     max-width: 264px;
+    margin-top: 0;
 }
 
 .icons-footer {
